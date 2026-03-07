@@ -5,8 +5,8 @@
         "domain": "facebook.com",
         "path": "/login/device-based/",
         "hostOnly": false,
-        "creation": "2026-03-07T19:45:34.355Z",
-        "lastAccessed": "2026-03-07T19:45:34.355Z"
+        "creation": "2026-03-07T19:57:41.874Z",
+        "lastAccessed": "2026-03-07T19:57:41.874Z"
     },
     {
         "key": "dpr",
@@ -14,8 +14,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2026-03-07T19:45:34.355Z",
-        "lastAccessed": "2026-03-07T19:45:34.355Z"
+        "creation": "2026-03-07T19:57:41.874Z",
+        "lastAccessed": "2026-03-07T19:57:41.874Z"
     },
     {
         "key": "wd",
@@ -23,8 +23,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2026-03-07T19:45:34.355Z",
-        "lastAccessed": "2026-03-07T19:45:34.355Z"
+        "creation": "2026-03-07T19:57:41.874Z",
+        "lastAccessed": "2026-03-07T19:57:41.874Z"
     },
     {
         "key": "fbl_st",
@@ -32,7 +32,7 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2026-03-07T19:45:34.355Z",
-        "lastAccessed": "2026-03-07T19:45:34.356Z"
+        "creation": "2026-03-07T19:57:41.874Z",
+        "lastAccessed": "2026-03-07T19:57:41.874Z"
     }
 ]
