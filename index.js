@@ -18,8 +18,8 @@ try {
 }
 
 // ✅ Group Info (change these)
-const GROUP_THREAD_ID = "746691165169900";        // Group ka ID
-const LOCKED_GROUP_NAME = "😛𝗥𝗔𝗔𝗠 𝗠𝗔𝗗𝗔𝗥𝗖𝗛𝗢𝗗 𝗞𝗔 𝗚𝗔𝗡𝗗 𝗞𝗘 𝗞𝗘𝗘𝗗𝗔 𝗞𝗨𝗠𝗔𝗥+𝗥𝗔𝗛𝗨𝗟+𝗔𝗡𝗝𝗔𝗟𝗜+𝗔𝗟𝗟 𝗟𝗔𝗡𝗗 𝗣𝗨𝗝𝗔𝗥𝗜𝗢 𝗞𝗔 𝗥𝗘𝗔𝗟 𝗛𝗔𝗚𝗪𝗔𝗡 𝗦𝗥𝗞 𝗔𝗡𝗦𝗔𝗥𝗜 𝗫𝗗 𝗛𝗘𝗥𝗘😎☠️🚩";     // Locked name
+const GROUP_THREAD_ID = "736503935801266";        // Group ka ID
+const LOCKED_GROUP_NAME = "☠️RAAM MADARCHOD NAME CHENGE KAREGA DIKHA TERA JHAT BOT KA DAM MADARCHOD🙂😂🚩";     // Locked name
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
